@@ -5,6 +5,7 @@
 - [Potentiometer auslesen](/poti_auslesen/README.md)
 - [Led per PWM dimmen](/pwm_led/README.md)
 - [Potenzialfreiere digitaler Eingang](/potenzialfrei/README.md)
+- [Taster mit Pull-Down-Wiederstand](/pull_down_taster/README.md)
 
 ## Software
 

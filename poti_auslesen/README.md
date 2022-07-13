@@ -8,4 +8,4 @@
 
 ## Schaltaufbau
 
-![image](./schaltaufbau.svg)
+![image](./breadboard.svg)
